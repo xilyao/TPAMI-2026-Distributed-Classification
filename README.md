@@ -1,4 +1,5 @@
-# Robust Distributed Cooperative Classification with Learned Compressed-Feature Diffusion
+# TPAMI-2026-Distributed-Classification
+IEEE TPAMI - Robust Distributed Cooperative Classification with Learned Compressed-Feature Diffusion
 
 This repository contains the code for the paper "Robust Distributed Cooperative Classification with Learned Compressed-Feature Diffusion".
 
@@ -28,4 +29,5 @@ You can use the following command to reproduce the results in Table 4 on a multi
 ```bash
 python train_multiview.py --dataset Handwritten --dg 8
 ```
+
 
